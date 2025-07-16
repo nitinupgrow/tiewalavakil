@@ -87,7 +87,7 @@ const OfficeGallery = () => {
               {idx === 1 && <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent" />}
               {idx === 1 && <div className="absolute bottom-4 left-4 right-4 text-white">
                   
-                  <p className="text-sm opacity-90">Professional Legal Services</p>
+                  
                 </div>}
             </div>)}
         </div>
